@@ -3,4 +3,12 @@ node_modules
 dist
 stats.json
 
-
+# Yarn
+.pnp.*
+.yarn
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
